@@ -1,2 +1,1 @@
 # ts-app
-Hello, World!
